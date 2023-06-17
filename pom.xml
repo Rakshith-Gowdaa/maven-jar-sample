@@ -13,9 +13,8 @@
   <url>http://www.example.com</url>
 
   <properties>
-    <sonar.host.url>https://18.222.202.109:9000/</sonar.host.url>
-	    <sonar.login>admin</sonar.login>
-	    <sonar.passward>admin1</sonar.passward>
+    <sonar.host.url>https://http://3.131.152.91:9000/</sonar.host.url>
+	    <sonar.login>squ_8675ee1fb1843610b10bc7530f5c68a4eca57ee9</sonar.login>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
